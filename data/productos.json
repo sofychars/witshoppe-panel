@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "ejemplo-audifonos-bluetooth",
+    "nombre": "Audífonos Bluetooth Inalámbricos",
+    "categoria": "tecnologia",
+    "precio": 69900,
+    "precioAntes": 99900,
+    "descripcionCorta": "Sonido nítido y batería de larga duración.",
+    "descripcionLarga": "Audífonos inalámbricos con cancelación de ruido básica, resistentes al sudor y con estuche de carga. Ideales para el día a día o hacer ejercicio.",
+    "imagenes": [
+      "https://via.placeholder.com/800x800.png?text=Foto+Producto+1",
+      "https://via.placeholder.com/800x800.png?text=Foto+Producto+2"
+    ],
+    "dropiId": "",
+    "activo": true,
+    "destacado": true
+  },
+  {
+    "slug": "ejemplo-locion-arabe",
+    "nombre": "Loción Árabe Larga Duración",
+    "categoria": "lociones",
+    "precio": 89900,
+    "precioAntes": 129900,
+    "descripcionCorta": "Fragancia amaderada de alta fijación, ideal para uso diario.",
+    "descripcionLarga": "Una fragancia con notas amaderadas y especiadas, pensada para durar todo el día. Presentación de 100ml, ideal como regalo o para uso personal.",
+    "imagenes": [
+      "https://via.placeholder.com/800x800.png?text=Foto+Producto+1"
+    ],
+    "dropiId": "",
+    "activo": true,
+    "destacado": false
+  },
+  {
+    "slug": "ejemplo-gafas-polarizadas",
+    "nombre": "Gafas de Sol Polarizadas",
+    "categoria": "gafas",
+    "precio": 59900,
+    "precioAntes": "",
+    "descripcionCorta": "Protección UV con estilo clásico unisex.",
+    "descripcionLarga": "Lentes polarizados con protección UV400, montura liviana y resistente. Incluye microfibra de limpieza.",
+    "imagenes": [
+      "https://via.placeholder.com/800x800.png?text=Foto+Producto+1"
+    ],
+    "dropiId": "",
+    "activo": true,
+    "destacado": false
+  },
+  {
+    "slug": "ejemplo-reloj-minimalista",
+    "nombre": "Reloj Minimalista Correa de Cuero",
+    "categoria": "relojes",
+    "precio": 79900,
+    "precioAntes": "",
+    "descripcionCorta": "Diseño clásico que combina con todo.",
+    "descripcionLarga": "Reloj de diseño minimalista, correa en cuero sintético y caratula resistente al agua para uso diario.",
+    "imagenes": [
+      "https://via.placeholder.com/800x800.png?text=Foto+Producto+1"
+    ],
+    "dropiId": "",
+    "activo": true,
+    "destacado": false
+  }
+]

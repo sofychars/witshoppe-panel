@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tecnologia",
+    "nombre": "Tecnología",
+    "descripcion": "Gadgets y accesorios tecnológicos útiles.",
+    "activa": true
+  },
+  {
+    "id": "lociones",
+    "nombre": "Lociones",
+    "descripcion": "Fragancias para todos los estilos y ocasiones.",
+    "activa": true
+  },
+  {
+    "id": "gafas",
+    "nombre": "Gafas",
+    "descripcion": "Gafas de sol y accesorios para cada estilo.",
+    "activa": true
+  },
+  {
+    "id": "relojes",
+    "nombre": "Relojes",
+    "descripcion": "Relojes para complementar cualquier outfit.",
+    "activa": true
+  }
+]
